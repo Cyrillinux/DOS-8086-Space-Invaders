@@ -1,6 +1,12 @@
 # DOS-8086-Space-Invaders
 A classic game written in 8086 Assembly, built as a final project for the Gvahim Assembly class.
 
+NEW VERSION WITH SOUND BACKGROUND
+
+See SPACE92 
+
+Original version by Ben Raz, here :
+
 Based on the original Space Invaders game.
 
 # Compile and run
