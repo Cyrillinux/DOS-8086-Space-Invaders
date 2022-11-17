@@ -1,7 +1,7 @@
-# DOS-8086-Space-Invaders
+# SPACE92 - DOS-8086-Space-Invaders width Music Playback
 A classic game written in 8086 Assembly, built as a final project for the Gvahim Assembly class.
 
-NEW VERSION WITH SOUND BACKGROUND
+NEW VERSION WITH MUSIC PLAYBACK
 
 See SPACE92 
 
