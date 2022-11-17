@@ -9,6 +9,7 @@ CODESEG
 ; ----------------------------------------
 proc PrintMainMenu
 @@printMenu:
+    call sd_CloseAllMusic
     mov  dx, offset ModMenu1
     call sd_LoadModule
     call sd_PlayMusic
@@ -305,7 +306,6 @@ proc PrintMainMenu
     call sd_LoadModule
     call sd_PlayMusic
 	call PrintHighScoreTable
-    call sd_CloseAllMusic
 	jmp @@printMenu
 
 @@procEnd:
