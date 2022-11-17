@@ -1,1 +1,3 @@
-See README.md
+Use MAKEALL.BAT to build all
+
+* DISCLAIMER OF ALL WARRANTIES *
