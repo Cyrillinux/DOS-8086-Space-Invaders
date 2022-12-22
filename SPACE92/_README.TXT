@@ -11,7 +11,7 @@ Pur assembly 8086 code.
 SPACE92.EXE  : Main exec program
 
 -> See SRC   : All Source codes
-             : MAKE.BAT for building
+             : MAKEALL.BAT for building
 
 Cyril
 
