@@ -7,9 +7,11 @@ Space92 rebuild by Cyril Barbato, November, 2022 (sourceforge.com)
 Rebuild demonstration with Music Playback (Pseudo-Multitasking example)
 
 Pur assembly 8086 code.
-SPACE92.EXE  : Main program
 
--> See SRC  : All Source codes
-            : MAKE.BAT for Building
+SPACE92.EXE  : Main exec program
+
+-> See SRC   : All Source codes
+             : MAKE.BAT for building
 
 Cyril
+
